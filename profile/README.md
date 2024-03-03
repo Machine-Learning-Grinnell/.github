@@ -3,5 +3,5 @@
 Grinnell's very own machine learning club
 
 ## Leadership
-Gun Woo Kim
-Trung Le
+- Gun Woo Kim
+- Trung Le
